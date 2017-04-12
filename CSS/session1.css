@@ -1,0 +1,17 @@
+table {
+    width: 25%;
+    position:relative;
+    left:35%;
+    top:5%;
+}
+td, th {
+    border: 2px solid #dddddd;
+    text-align: center;
+}
+h1{
+  text-align: center;
+  top:15%;
+}
+th{
+  background-color: green;
+}
